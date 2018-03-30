@@ -3,3 +3,8 @@ i am testing an organization repository.
 
 this is very useful for me.
 because i can test some git working before working directly with pg repo.
+
+ok. I add some lines to this file.
+and i think i should push it to repo.
+so lets push it. push , push, push.
+
