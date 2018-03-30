@@ -1,5 +1,12 @@
 htis is file3.txt
 
-i think i learned good amount of git today.
 
 i should repeat everything i learned before sleep.
+
+
+
+hello again!
+after pulling from remote repo, use "$ git branch -a" to see all branches.
+then use "$ git checkout remote/orign/<branch_name> " to see the files of that remote branch.
+the use "$ git checkout -b <your_desired_branch_name> "  to create a commitable branch for your local repository.
+
