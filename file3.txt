@@ -1,0 +1,5 @@
+htis is file3.txt
+
+i think i learned good amount of git today.
+
+i should repeat everything i learned before sleep.
